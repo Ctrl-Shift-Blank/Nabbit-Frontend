@@ -1,8 +1,8 @@
 # Nabbit Collections
 
-The user interface for Nabbit's community resource index. Explore collections, locate a NABCODE, view a resource, or add a record. You're welcome to browse and open public links without an account.
+Nabbit’s community resource index lets you browse collections, look up a NABCODE, open resources, and add new records.
 
-We're beginning with the interface. There is no production backend here. Let's get the public pages correctly before the account and staff screens. The backend implementation will be in a separate repository and linked here once it exists.
+Right now, the focus is on getting the public interface right. There’s no production backend connected yet!!
 
 ## Stack
 
